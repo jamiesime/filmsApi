@@ -10,12 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "wepback": "^1.0.0"
   },
   "devDependencies": {
     "body-parser": "^1.15.2",
     "mocha": "^3.0.2",
-    "webpack": "2.6.0"
+    "webpack": "^2.6.0"
   },
   "description": ""
 }
